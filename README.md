@@ -1,2 +1,2 @@
 # luqmanismat
-Luqman Ismat's Personal Portfolio Website
+My personal website. Created with Next.js and Vercel.
